@@ -1,0 +1,8 @@
+{
+	"name" : "maxarov/simple_chat",
+	"autoload" : {
+		"classmap" : [
+			"app/"
+		]
+	}
+}
